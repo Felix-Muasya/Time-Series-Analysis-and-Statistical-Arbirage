@@ -1,3 +1,4 @@
+# USING THE ALPHA VANTAGE SPI TO FIND DATA. 
 import pandas as pd
 import requests
 
